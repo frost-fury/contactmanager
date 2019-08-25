@@ -1,4 +1,3 @@
-//textinputgroup
 import React, { Component } from 'react';
 import { Consumer } from '../../context';
 import TextInputGroup from '../layouts/TextInputGroup';
